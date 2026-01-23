@@ -11,8 +11,8 @@ Shark Remote — это ПО для удалённого управления к
 ## Системные требования
 
 * Пользовательские ОС (x64): Windows 10 версия 1809 и выше, Windows 11
-* Серверные ОС (x64): Windows Server 2019, Windows Server 2022, Windows Server 2025
-* Дополнительно требуются: [пакеты Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/), [WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703) ([Telegram](https://t.me/SharkRemoteVersions/158))
+* Серверные ОС (x64): Windows Server 2019 (рекомендуется с последними обновлениями), Windows Server 2022, Windows Server 2025
+* Дополнительно требуются: [пакеты Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/), [WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703) (установка производится автоматически при первом запуске, однако возможно использование без WebView2, требуется первая настройка через [Web-Конфигуратор](https://sharkremote.neocities.org/webui2))
 
 ## Интернет-ресурсы проекта
 

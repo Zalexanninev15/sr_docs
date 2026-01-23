@@ -3,7 +3,7 @@
 * [Главная](README.md)
 * [Начинающим](hello/README.md)
   * [Первый запуск](hello/first-launch.md)
-  * [Начальная настройка (Мастер настройки)](hello/settings-wizard.md)
+  * [Мастер настройки (версии ниже 10)](hello/settings-wizard.md)
   * [Запуск Telegram бота](hello/telegram-bot.md)
 * [Shark Remote LAN](lan-component.md)
 * [Вопросы и решение проблем](faq/README.md)

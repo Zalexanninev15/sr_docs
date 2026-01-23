@@ -21,7 +21,7 @@ description: >-
 * [Файл с Меню – **menu.txt**](menu.txt.md)
 * [Файл с Меню Избранного - **favorites.txt**](favorites.txt.md)
 * Файл с расположением файла AutoIt3.exe (полный путь к AutoIt3.exe) – **autoit3\_exe.txt**
-* Опциональный файл с флагами (flags) - **flags.txt**
+* [Опциональный файл с флагами (flags) - **flags.txt**](flags.md)
 
 {% hint style="info" %}
 Чтобы перейти к данным файлам легче всего сделать клик мышью с зажатым Alt на пункте меню Настройки.
