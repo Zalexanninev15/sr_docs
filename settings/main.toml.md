@@ -5,12 +5,11 @@ description: Ручное редактирование главного файл
 # Файл конфигурации Shark Remote
 
 {% hint style="success" %}
-Файл: main.toml
+Файл: **main.toml**
 {% endhint %}
 
 {% hint style="info" %}
-Более наглядно можно посмотреть в [WebUI](https://sharkremote.neocities.org/webui).\
-Представленный здесь список настроек совместим только с Shark Remote 7+
+Более наглядно можно посмотреть в [WebUI](https://sharkremote.neocities.org/webui2).
 {% endhint %}
 
 ## \[BOT]
@@ -68,4 +67,4 @@ description: Ручное редактирование главного файл
 
 Раздел настроек для изменения дополнительных настроек.
 
-<table><thead><tr><th width="281">Настройка</th><th>Описание</th><th>Принимаемые значения</th></tr></thead><tbody><tr><td><code>check_for_updates</code></td><td>Управление проверкой обновления (даже в ручном режиме!)</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>use_online_checks</code></td><td>Игнорирует проверки доступности критически важных Интернет-сервисов и продолжает работу (может вызывать проблемы в работе Shark Remote, если проблемы имеются)</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>install_plugins_without_limits</code></td><td>Убирает ограничение на размер установочных файлов плагинов (не более 10 Мб), позволяя устанавливать плагины любого размера</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>file_version</code></td><td>Версия конфигурационного файла, используется для определения совместимости версии Shark Remote и файла конфигурации, что позволяет избежать проблем при загрузке значений настроек из конфигурационного файла</td><td>Версия конфигурационного файла (изменять вручную <strong>нельзя</strong>, от этого зависит работоспособность Shark Remote)</td></tr></tbody></table>
+<table><thead><tr><th width="281">Настройка</th><th>Описание</th><th>Принимаемые значения</th></tr></thead><tbody><tr><td><code>check_for_updates</code></td><td>Управление проверкой обновления (даже в ручном режиме!)</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>use_online_checks</code></td><td>Игнорирует проверки доступности критически важных Интернет-сервисов и продолжает работу (может вызывать проблемы в работе Shark Remote, если проблемы имеются)</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>install_plugins_without_limits</code></td><td>Убирает ограничение на размер установочных файлов плагинов (не более 10 Мб), позволяя устанавливать плагины любого размера</td><td><code>false</code> или <code>true</code></td></tr><tr><td><code>file_version</code></td><td>Версия конфигурационного файла, используется для определения совместимости версии Shark Remote и файла конфигурации, что позволяет избежать проблем при загрузке значений настроек из конфигурационного файла</td><td>Версия конфигурационного файла (изменять вручную <strong>нельзя</strong>, от этого напрямую зависит работоспособность Shark Remote)</td></tr></tbody></table>

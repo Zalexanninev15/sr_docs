@@ -1,7 +1,7 @@
 # Файл Меню
 
 {% hint style="success" %}
-Файл: menu.txt
+Файл: **menu.txt**
 {% endhint %}
 
 **Меню** доступно в Telegram боте. Можно использовать команды Telegram бота Shark Remote.

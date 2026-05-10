@@ -1,7 +1,7 @@
 # Файл с Пользовательскими переменными
 
 {% hint style="success" %}
-Файл: variables.txt
+Файл: **variables.txt**
 {% endhint %}
 
 {% hint style="info" %}
