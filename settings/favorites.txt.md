@@ -23,7 +23,7 @@
 
 #### Кнопка с ссылкой
 
-`Просто ссылка=>function:?https://codeberg.com/Zalexanninev15`
+`Просто ссылка=>function:?https://codeberg.org/Zalexanninev15`
 
 Описание:
 
@@ -71,7 +71,7 @@
 
 `CopyButton=>function:csТекст`  - 🟢
 
-`Просто ссылка=>function:?phttps://codeberg.com/Zalexanninev15` - 🔵
+`Просто ссылка=>function:?phttps://codeberg.org/Zalexanninev15` - 🔵
 
 `WebApp=>function:!dhttps://browserleaks.com/ip` - 🔴
 
