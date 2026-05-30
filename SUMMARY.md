@@ -24,6 +24,7 @@
   * [Файл с Пользовательскими переменными](settings/variables.txt.md)
   * [Файл Меню](settings/menu.txt.md)
   * [Файл Меню Избранного](settings/favorites.txt.md)
+  * [Список изменений \[2020-2025\]](settings/spisok-izmenenii-2020-2025.md)
   * [Файл с флагами](settings/flags.md)
 * [Полный список команд Telegram бота](commands.md)
 * [Автозагрузка](startup.md)
