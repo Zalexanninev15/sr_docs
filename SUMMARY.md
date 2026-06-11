@@ -37,5 +37,5 @@
   * [PowerShell](dev-plugins/powershell.md)
   * [AutoIt](dev-plugins/autoit3.md)
 * [Особые переменные](hack_av.md)
-* [Список изменений](spisok-izmenenii/README.md)
-  * [Список изменений \[Legacy\]](spisok-izmenenii/spisok-izmenenii-legacy.md)
+* [Список изменений](changelog/README.md)
+  * [Список изменений \[Legacy\]](changelog/changelog_old_versions.md)
