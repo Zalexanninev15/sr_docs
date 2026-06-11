@@ -38,4 +38,4 @@
   * [AutoIt](dev-plugins/autoit3.md)
 * [Особые переменные](hack_av.md)
 * [Список изменений](changelog/README.md "changelog")
-  * [Список изменений \[Legacy\]](changelog/changelog_old_versions.md)
+  * [Список изменений \[Legacy\]](changelog/old_versions.md "old_versions")

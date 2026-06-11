@@ -76,6 +76,6 @@ description: Новый список изменений.
 * \[Telegram бот] Добавлена базовая реализация истории команд (скрыта для показа)
 
 {% hint style="info" icon="old-republic" %}
-<p align="center"><strong>Список изменений к версиям с 2020 по 2025 год расположен</strong> <a href="changelog_old_versions.md"><strong>здесь</strong></a><strong>.</strong></p>
+<p align="center"><strong>Список изменений к версиям с 2020 по 2025 год расположен</strong> <a href="old_versions.md"><strong>здесь</strong></a><strong>.</strong></p>
 {% endhint %}
 
