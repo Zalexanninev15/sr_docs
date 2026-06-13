@@ -27,7 +27,7 @@ layout:
 Вы находитесь в главном разделе документации для ПО «Shark Remote».
 
 {% hint style="info" %}
-Документация обновлена 10 мая 2026 года.
+Документация обновлена 13 июня 2026 года.
 {% endhint %}
 
 ## Основные разделы документации
@@ -36,7 +36,7 @@ layout:
 2. [Shark Remote LAN](lan-component.md)
 3. [Вопросы и решение проблем](faq/)
 4. [Настройка Shark Remote](settings/)
-5. [Полный список команд Telegram бота](commands.md) (скоро)
+5. [Полный список команд Telegram бота](commands.md) (в работе)
 6. [Автозагрузка](startup.md)
 7. [Пользовательские переменные](variables.md)
 8. [Настройка qBittorrent для скачивания торрентов](qbittorrent.md)
@@ -45,7 +45,7 @@ layout:
 11. [Подпись ZIP](zipka.md)
 12. [Разработка плагинов](dev-plugins/)
 13. [Особые переменные](hack_av.md)
-14. [Список изменений](https://cloud.disroot.org/s/ajZ9XbpLm4GsryR) (или [архив на Teletype с 3 мая](https://teletype.in/@zalexanninev15/wit_changelog))
+14. [Список изменений](changelog/) (или [архив на Teletype](https://teletype.in/@zalexanninev15/wit_changelog))
 
 {% content-ref url="https://app.gitbook.com/o/tiCKd6pGTzbLSbDyvKAe/c/QDFeat84ffOVDbk1Dm7o" %}
 [Shark Remote](https://app.gitbook.com/o/tiCKd6pGTzbLSbDyvKAe/c/QDFeat84ffOVDbk1Dm7o)
