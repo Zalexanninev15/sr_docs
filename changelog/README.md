@@ -4,7 +4,7 @@ description: Новый список изменений.
 
 # Список изменений
 
-### Версия 10 CE (Shark Remote XCE)
+### Версия 10 CE (Shark Remote X CE, SRCE)
 
 Релиз Shark Remote 10 с небольшими улучшениями с открытым исходным кодом на Codeberg. Подробности появятся после релиза Shark Remote X.
 

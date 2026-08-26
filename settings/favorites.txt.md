@@ -32,7 +32,7 @@
 * `?` - обозначает, что данная кнопка является ссылкой
 * `https://codeberg.com/Zalexanninev15` - открываемая ссылка.\
   Также допускается username Telegram бота (без **@**). Пример:\
-  `N.E.T.C.A.L.C.=>function:?STEPLOGIC_NetCalc_bot` (а вот [сам Telegram бот](https://t.me/STEPLOGIC_NetCalc_bot))
+  `N.E.T.C.A.L.C.=>function:?STEPLOGIC_NetCalc_bot` (а вот [Telegram бот](https://t.me/STEPLOGIC_NetCalc_bot))
 
 #### Кнопка с Web-приложением
 
@@ -45,7 +45,7 @@
 * `!` - обозначает, что данная кнопка открывает Web-приложение в Telegram
 * `https://myip.ru` - открываемая ссылка Web-приложения (обязательно HTTPS), ссылка может вести на любой сайт. Открываемый сайт может и не быть Web-приложением в Интернете. \
   Также допускается username Telegram бота (без **@**) с Мини-приложением. Пример:\
-  `Test Attach=>function:!asmico_attach_bot` (а вот [сам Telegram бот](https://t.me/asmico_attach_bot))
+  `Test Attach=>function:!asmico_attach_bot` (а вот [Telegram бот](https://t.me/asmico_attach_bot))
 
 #### Кнопка для копирования
 
